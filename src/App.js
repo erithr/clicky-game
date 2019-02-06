@@ -81,7 +81,7 @@ class App extends Component {
         />
 
         <Title>
-          Click on an image to earn points, but don't click on any more than once!
+          Click on an image to earn points, but dont click on any more than once!
         </Title>
         <Container>
           <Row>
